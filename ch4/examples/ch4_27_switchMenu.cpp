@@ -1,5 +1,5 @@
-// This program uses a witch statement to determine
-// the item selected from a menu
+// This program uses a switch statement to determine
+// the item selected from a menu.
 // Modified form ch4_18_menu.cpp
 #include <iostream>
 #include <iomanip>
